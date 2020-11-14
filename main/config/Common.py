@@ -1,0 +1,2 @@
+STOCK_URL = r"http://hq.sinajs.cn/list="
+STOCK_LICENSE = r"1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F"
