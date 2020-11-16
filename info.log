@@ -1,0 +1,98 @@
+2020-11-14 14:34:03,550 - INFO - Start requesting... http://ig1507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:35:18,433 - INFO - Start requesting... http://ig1507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:35:18,445 - WARNING - request failed... HTTPConnectionPool(host='ig1507.com', port=80): Max retries exceeded with url: /data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D406D70EC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-11-14 14:37:20,144 - INFO - Start requesting... http://ig1507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:37:20,160 - WARNING - request failed... HTTPConnectionPool(host='ig1507.com', port=80): Max retries exceeded with url: /data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A28F1E1D08>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-11-14 14:37:31,244 - INFO - Start requesting... http://ig1507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:37:31,252 - WARNING - request failed... HTTPConnectionPool(host='ig1507.com', port=80): Max retries exceeded with url: /data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A28F1F3608>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-11-14 14:40:02,244 - INFO - Start requesting... http://ig1507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:40:02,255 - WARNING - request failed... HTTPConnectionPool(host='ig1507.com', port=80): Max retries exceeded with url: /data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000214793D0DC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-11-14 14:40:58,824 - INFO - Start requesting... http://ig1507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:40:58,834 - WARNING - request failed... HTTPConnectionPool(host='ig1507.com', port=80): Max retries exceeded with url: /data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F431C00E88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-11-14 14:44:56,926 - INFO - Start requesting... http://ig1507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:44:56,937 - WARNING - request failed... HTTPConnectionPool(host='ig1507.com', port=80): Max retries exceeded with url: /data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E4B35AFD88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-11-14 14:45:20,969 - INFO - Start requesting... http://ig507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:45:26,699 - INFO - Start requesting... http://ig507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:45:28,099 - INFO - Start requesting... http://ig507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:45:29,267 - INFO - Start requesting... http://ig507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:45:31,622 - INFO - Start requesting... http://ig507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:45:32,181 - INFO - Start requesting... http://ig507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:45:32,968 - INFO - Start requesting... http://ig507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:45:33,148 - INFO - Start requesting... http://ig507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:45:33,891 - INFO - Start requesting... http://ig507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:45:34,073 - INFO - Start requesting... http://ig507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:45:34,245 - INFO - Start requesting... http://ig507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:45:35,022 - INFO - Start requesting... http://ig507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:45:35,233 - INFO - Start requesting... http://ig507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:48:38,961 - INFO - Start requesting... http://ig507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:48:41,105 - INFO - Start requesting... http://ig507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:48:47,151 - INFO - Start requesting... http://ig507.com/data/time/real/3000591?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:48:49,788 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:48:53,401 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:48:55,320 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:48:56,288 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:48:56,990 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:48:57,697 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:48:58,288 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:49:17,244 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:49:19,350 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:49:22,532 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:49:24,231 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:49:26,606 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:49:27,146 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:49:27,853 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:49:28,023 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:49:28,205 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:50:34,894 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:50:36,173 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:50:38,537 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:50:39,028 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:50:39,264 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:50:55,663 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:50:57,648 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:50:59,148 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:51:04,722 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:51:05,483 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:51:44,612 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:51:45,509 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:52:26,807 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:52:28,811 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 14:52:29,471 - INFO - Start requesting... http://ig507.com/data/time/real/300059?licence=1C4D2DCE-FAB0-B51D-4500-8A1BBD2D756F
+2020-11-14 15:25:37,190 - INFO - Start requesting... http://hq.sinajs.cn/list=300059
+2020-11-14 15:26:08,214 - INFO - Start requesting... http://hq.sinajs.cn/list=sz300059
+2020-11-14 15:26:39,664 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:27:29,069 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:28:20,934 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:30:28,104 - INFO - Start requesting... http://hq.sinajs.cn/list=sz300059
+2020-11-14 15:30:37,754 - INFO - Start requesting... http://hq.sinajs.cn/list=sz300059
+2020-11-14 15:34:40,644 - INFO - Start requesting... http://hq.sinajs.cn/list=sz300059
+2020-11-14 15:35:08,478 - INFO - Start requesting... http://hq.sinajs.cn/list=sz300059
+2020-11-14 15:35:48,951 - INFO - Start requesting... http://hq.sinajs.cn/list=sz300059
+2020-11-14 15:35:56,219 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:36:09,806 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:36:13,395 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:36:13,681 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:36:13,915 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:36:14,109 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:36:14,391 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:36:46,693 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:37:11,029 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:37:35,753 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:39:50,844 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:41:22,758 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:41:51,543 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:42:04,718 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:42:18,339 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:44:05,049 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:44:05,068 - INFO - 股票代码输入错误，请重输..
+2020-11-14 15:44:27,252 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:44:27,272 - INFO - 股票代码输入错误，请重输..
+2020-11-14 15:47:22,916 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:47:22,935 - INFO - stock number is invalid... 
+2020-11-14 15:53:10,498 - INFO - Start requesting... http://hq.sinajs.cn/list=sz3000591
+2020-11-14 15:53:10,511 - WARNING - stock number is invalid... 
+2020-11-14 15:53:15,322 - INFO - Start requesting... http://hq.sinajs.cn/list=sz300059
+2020-11-14 16:02:01,661 - INFO - Start requesting... http://hq.sinajs.cn/list=sz300059
+2020-11-14 16:02:48,183 - INFO - Start requesting... http://hq.sinajs.cn/list=sz300059
+2020-11-14 16:03:15,380 - INFO - Start requesting... http://hq.sinajs.cn/list=sz300059
+2020-11-14 16:03:46,822 - INFO - Start requesting... http://hq.sinajs.cn/list=sz300059
